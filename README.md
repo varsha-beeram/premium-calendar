@@ -15,6 +15,4 @@ This is a premium-looking React + Vite + Tailwind calendar. It includes:
    npm run dev
 4. Open the URL printed by Vite (e.g. http://localhost:5173 or 5174)
 
-## Notes
-- All UI code is original.
-- If you want deployment help to Vercel, tell me and I'll provide step-by-step instructions.
+
