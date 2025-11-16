@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Team Standup",
+    "date": "2025-11-15",
+    "time": "09:30",
+    "duration": 30,
+    "color": "#7C3AED"
+  },
+  {
+    "id": 2,
+    "title": "Client Call",
+    "date": "2025-11-15",
+    "time": "10:00",
+    "duration": 60,
+    "color": "#0EA5A4"
+  },
+  {
+    "id": 3,
+    "title": "Design Review",
+    "date": "2025-11-18",
+    "time": "14:00",
+    "duration": 45,
+    "color": "#F59E0B"
+  },
+  {
+    "id": 4,
+    "title": "Interview",
+    "date": "2025-11-18",
+    "time": "14:00",
+    "duration": 30,
+    "color": "#EF4444"
+  },
+  {
+    "id": 5,
+    "title": "Project Deadline",
+    "date": "2025-11-30",
+    "time": "23:59",
+    "duration": 1,
+    "color": "#374151"
+  }
+]
