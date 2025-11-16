@@ -1,4 +1,4 @@
-# Premium Calendar (CRM-style)
+# Calendar
 
 This is a premium-looking React + Vite + Tailwind calendar. It includes:
 - Sidebar + Topbar layout
